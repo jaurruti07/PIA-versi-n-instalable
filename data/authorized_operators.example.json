@@ -1,0 +1,22 @@
+[
+  {
+    "operatorIndex": 1,
+    "oid": "",
+    "tid": "",
+    "displayName": "Apoyo GI (CNC)",
+    "upn": "apoyogi@cnc.gob.gt",
+    "role": "data_operator",
+    "status": "pending_configuration",
+    "notes": "PENDIENTE: Ingresar el OID (Object ID) y TID (Tenant ID) reales proporcionados por el equipo de TI de la CNC tras consultar Microsoft Entra ID."
+  },
+  {
+    "operatorIndex": 2,
+    "oid": "",
+    "tid": "",
+    "displayName": "Detección y Denuncia (CNC)",
+    "upn": "deteccionydenuncia@cnc.gob.gt",
+    "role": "data_operator",
+    "status": "pending_configuration",
+    "notes": "PENDIENTE: Ingresar el OID (Object ID) y TID (Tenant ID) reales proporcionados por el equipo de TI de la CNC tras consultar Microsoft Entra ID."
+  }
+]
